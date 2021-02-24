@@ -1,0 +1,115 @@
+﻿2020-12-21 09:11:32.060 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 09:11:32.338 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 09:11:32.573 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:11:56.435 INFO  Sending PlaceOrder command, OrderId = b5646227-588a-4c2b-94ed-6c574b7c02dc
+2020-12-21 09:11:56.501 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:11:56.548 INFO  Received PlaceOrder, OrderId = b5646227-588a-4c2b-94ed-6c574b7c02dc
+2020-12-21 09:12:00.841 INFO  Sending PlaceOrder command, OrderId = aa4e8878-b715-4b61-bf1f-5d3027561571
+2020-12-21 09:12:00.850 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:12:00.855 INFO  Received PlaceOrder, OrderId = aa4e8878-b715-4b61-bf1f-5d3027561571
+2020-12-21 09:12:03.210 INFO  Sending PlaceOrder command, OrderId = 6e39b3fa-615a-46cc-83ed-4cf48c53aed8
+2020-12-21 09:12:03.218 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:12:03.227 INFO  Received PlaceOrder, OrderId = 6e39b3fa-615a-46cc-83ed-4cf48c53aed8
+2020-12-21 09:12:12.966 INFO  Initiating shutdown.
+2020-12-21 09:12:12.981 INFO  Shutdown complete.
+2020-12-21 09:22:30.267 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 09:22:30.476 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 09:22:30.636 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:22:34.379 INFO  Sending PlaceOrder command, OrderId = 71c25b26-e17a-4d85-8342-2d9be66c0d41
+2020-12-21 09:22:34.448 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:22:37.000 INFO  Sending PlaceOrder command, OrderId = e61cb1b0-cedb-446d-a68d-2d54dce0158c
+2020-12-21 09:22:37.008 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:22:42.424 INFO  Sending PlaceOrder command, OrderId = 1794d4f6-8f43-45ea-b3d2-fa6596722184
+2020-12-21 09:22:42.431 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:22:47.856 INFO  Sending PlaceOrder command, OrderId = 19055adb-3601-407c-bc88-57bae71b9c99
+2020-12-21 09:22:47.863 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:22:52.952 INFO  Sending PlaceOrder command, OrderId = a6bf68d4-cfeb-4f32-bd89-f73cc91b68b4
+2020-12-21 09:22:52.959 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:23:00.810 INFO  Sending PlaceOrder command, OrderId = db86f14a-97db-4123-ad53-5004535d5246
+2020-12-21 09:23:00.817 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 09:23:03.081 INFO  Sending PlaceOrder command, OrderId = 4bce9fbe-c6cb-4dbc-a4b8-be13a6f7e1df
+2020-12-21 09:23:03.089 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:21:24.354 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 12:21:24.931 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 12:21:25.164 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:21:33.620 INFO  Sending PlaceOrder command, OrderId = 27c0cdda-aa62-4331-b0bd-bf0fe07496b9
+2020-12-21 12:21:33.683 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:21:47.771 INFO  Sending PlaceOrder command, OrderId = a4495dc3-d881-447a-bef2-b32b2ac05bce
+2020-12-21 12:21:47.784 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:21:55.979 INFO  Sending PlaceOrder command, OrderId = 9894ad53-93bc-46d8-aa48-a0933d3ee8d5
+2020-12-21 12:21:55.989 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:32:58.917 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 12:32:59.447 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 12:32:59.628 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:33:17.842 INFO  Sending PlaceOrder command, OrderId = 087981cb-bf73-41ad-8571-0132054e602b
+2020-12-21 12:33:17.907 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:34:24.278 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 12:34:24.765 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 12:34:24.927 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:34:44.522 INFO  Sending PlaceOrder command, OrderId = d3cd46f5-323a-417b-a4f4-17f026544a98
+2020-12-21 12:34:44.587 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:35:08.057 INFO  Sending PlaceOrder command, OrderId = 50c648e4-27fd-41de-89d7-3fa0cdd1a44b
+2020-12-21 12:35:08.071 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 12:35:14.233 INFO  Sending PlaceOrder command, OrderId = b290265e-5aa9-48e3-9548-453ea955ab40
+2020-12-21 12:35:14.245 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:38:08.149 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 14:38:11.484 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 14:38:11.694 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:38:19.726 INFO  Sending PlaceOrder command, OrderId = f434ce32-c03c-40ab-8c15-d39a5e8eabc4
+2020-12-21 14:38:19.790 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:38:20.682 INFO  Unknown input. Please try again.
+2020-12-21 14:38:20.686 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:38:31.058 INFO  Sending PlaceOrder command, OrderId = 14bc56ec-a19e-4b6e-98cc-2eb6245d6c47
+2020-12-21 14:38:31.071 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:38:33.906 INFO  Sending PlaceOrder command, OrderId = f935b444-84d7-4144-a864-2f87b5f82c54
+2020-12-21 14:38:33.914 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:38:36.279 INFO  Initiating shutdown.
+2020-12-21 14:38:36.294 INFO  Shutdown complete.
+2020-12-21 14:40:03.698 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 14:40:03.965 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 14:40:04.102 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:42:39.205 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-21 14:42:47.724 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-21 14:42:47.957 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:42:56.085 INFO  Sending PlaceOrder command, OrderId = 790f0927-a21f-432c-9f3a-2820e1056927
+2020-12-21 14:42:56.159 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:07.698 INFO  Sending PlaceOrder command, OrderId = 12323f30-61a1-43b9-84d8-0671c297622c
+2020-12-21 14:43:07.709 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:19.161 INFO  Sending PlaceOrder command, OrderId = 31b23c3e-9ec9-42d8-86b9-608a5911a624
+2020-12-21 14:43:19.172 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:20.394 INFO  Sending PlaceOrder command, OrderId = d611d6f4-5104-4cf7-80dd-e33a5a21bccb
+2020-12-21 14:43:20.404 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:21.666 INFO  Sending PlaceOrder command, OrderId = 54b823e0-c0e8-47b5-94d4-ca9ae35c164a
+2020-12-21 14:43:21.674 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:22.801 INFO  Sending PlaceOrder command, OrderId = e099e21d-4cd9-45fc-bfa2-8d4baf9ff07b
+2020-12-21 14:43:22.809 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:23.962 INFO  Sending PlaceOrder command, OrderId = e57f8b5a-51b3-4995-a4c4-874f4bf3973b
+2020-12-21 14:43:23.968 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:24.857 INFO  Sending PlaceOrder command, OrderId = 06a93860-2f6e-4c36-86fd-cf5e1a1b1812
+2020-12-21 14:43:24.868 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:25.515 INFO  Sending PlaceOrder command, OrderId = cbbe05be-5023-41bb-bf73-e1dff3ebf1ff
+2020-12-21 14:43:25.524 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:26.018 INFO  Sending PlaceOrder command, OrderId = 8bb62b29-87ab-4b27-b92a-67b670e95064
+2020-12-21 14:43:26.022 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:26.474 INFO  Sending PlaceOrder command, OrderId = f544ecbc-8c83-45c1-a001-4fa2d09a36a1
+2020-12-21 14:43:26.484 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:26.930 INFO  Sending PlaceOrder command, OrderId = 76427d1f-2bc5-4c6b-be52-e1528486c1b4
+2020-12-21 14:43:26.937 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:27.370 INFO  Sending PlaceOrder command, OrderId = e6c2ed11-9df8-43d1-9d58-54074114fac9
+2020-12-21 14:43:27.378 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:28.650 INFO  Sending PlaceOrder command, OrderId = 22f7c397-5412-4d17-bc24-46fc6c70162e
+2020-12-21 14:43:28.657 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:29.306 INFO  Sending PlaceOrder command, OrderId = 72caf5b0-f470-4b05-9d6f-ba32d14426e3
+2020-12-21 14:43:29.317 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:29.842 INFO  Sending PlaceOrder command, OrderId = 11ad04be-44bd-40f8-b021-3f67c369db12
+2020-12-21 14:43:29.850 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:30.251 INFO  Sending PlaceOrder command, OrderId = b2288968-822f-48ca-a352-7131383ec9fb
+2020-12-21 14:43:30.256 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:43:31.106 INFO  Sending PlaceOrder command, OrderId = 2b1a3c4e-fb2e-4427-8b93-511a4750aca2
+2020-12-21 14:43:31.112 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:44:18.297 INFO  Sending PlaceOrder command, OrderId = 6505f875-939e-432b-8d1d-08b1bd4a0bda
+2020-12-21 14:44:18.312 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:44:19.785 INFO  Sending PlaceOrder command, OrderId = a5d6dfef-eedf-4524-a601-fda1900ca9c3
+2020-12-21 14:44:19.792 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-21 14:44:20.218 INFO  Sending PlaceOrder command, OrderId = 75814033-818e-4da6-b7dc-d556239d15a6
+2020-12-21 14:44:20.226 INFO  Press 'P' to place an order, or 'Q' to quit.

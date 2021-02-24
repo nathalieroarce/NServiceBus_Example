@@ -1,0 +1,12 @@
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\bin\Debug\Billing.exe.config
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\bin\Debug\Billing.exe
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\bin\Debug\Billing.pdb
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\bin\Debug\Messages.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\bin\Debug\NServiceBus.Core.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\bin\Debug\Messages.pdb
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\bin\Debug\NServiceBus.Core.xml
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\obj\Debug\Billing.csprojAssemblyReference.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\obj\Debug\Billing.csproj.CopyComplete
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\obj\Debug\Billing.exe
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Billing\obj\Debug\Billing.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\Shipping.exe.config
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\Shipping.exe
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\Shipping.pdb
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\Messages.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\Messages.pdb
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.xml
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\obj\Debug\Shipping.csprojAssemblyReference.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\obj\Debug\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\obj\Debug\Shipping.csproj.CopyComplete
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\obj\Debug\Shipping.exe
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\obj\Debug\Shipping.pdb

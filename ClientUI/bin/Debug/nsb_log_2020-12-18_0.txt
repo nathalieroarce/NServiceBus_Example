@@ -1,0 +1,17 @@
+﻿2020-12-18 13:57:36.218 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-18 13:57:36.573 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-18 13:57:36.765 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-18 13:57:41.179 INFO  Sending PlaceOrder command, OrderId = 43e1e725-10ae-420d-93d9-3c25a18de6b7
+2020-12-18 13:57:41.253 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-18 13:57:41.326 INFO  Received PlaceOrder, OrderId = 43e1e725-10ae-420d-93d9-3c25a18de6b7
+2020-12-18 13:57:50.985 INFO  Sending PlaceOrder command, OrderId = 8d74209b-41f6-4d54-94d2-6e5c32a68298
+2020-12-18 13:57:50.995 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-18 13:57:51.005 INFO  Received PlaceOrder, OrderId = 8d74209b-41f6-4d54-94d2-6e5c32a68298
+2020-12-18 13:57:54.641 INFO  Sending PlaceOrder command, OrderId = 1bd00b11-9db7-4517-b04e-2be06144f5bf
+2020-12-18 13:57:54.652 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-18 13:57:54.669 INFO  Received PlaceOrder, OrderId = 1bd00b11-9db7-4517-b04e-2be06144f5bf
+2020-12-18 13:57:57.050 INFO  Sending PlaceOrder command, OrderId = 4f971dfb-f1b3-4846-8ad2-3806caa95d4e
+2020-12-18 13:57:57.059 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-18 13:57:57.066 INFO  Received PlaceOrder, OrderId = 4f971dfb-f1b3-4846-8ad2-3806caa95d4e
+2020-12-18 13:57:58.949 INFO  Initiating shutdown.
+2020-12-18 13:57:58.960 INFO  Shutdown complete.

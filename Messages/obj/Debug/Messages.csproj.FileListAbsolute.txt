@@ -1,0 +1,9 @@
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\bin\Debug\Messages.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\bin\Debug\Messages.pdb
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\bin\Debug\NServiceBus.Core.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\bin\Debug\NServiceBus.Core.xml
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\obj\Debug\Messages.csprojAssemblyReference.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\obj\Debug\Messages.csproj.CopyComplete
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\obj\Debug\Messages.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Messages\obj\Debug\Messages.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\Sales.exe.config
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\Sales.exe
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\Sales.pdb
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\Messages.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\NServiceBus.Core.dll
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\Messages.pdb
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\NServiceBus.Core.xml
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\obj\Debug\Sales.csprojAssemblyReference.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\obj\Debug\Sales.csproj.CopyComplete
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\obj\Debug\Sales.exe
+C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\obj\Debug\Sales.pdb

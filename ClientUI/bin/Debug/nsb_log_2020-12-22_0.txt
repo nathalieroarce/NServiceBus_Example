@@ -1,0 +1,11 @@
+﻿2020-12-22 10:50:55.794 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2020-12-22 10:50:56.431 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-22 10:50:56.627 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-22 10:51:16.377 INFO  Sending PlaceOrder command, OrderId = f1e2124d-26ca-4767-9fd1-d7a47ce5db63
+2020-12-22 10:51:16.446 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-22 10:51:25.193 INFO  Sending PlaceOrder command, OrderId = 4788d8b3-9706-4e43-9c7a-8aba35f206dc
+2020-12-22 10:51:25.203 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-22 10:51:28.150 INFO  Sending PlaceOrder command, OrderId = 9ccf4116-7b0e-49f0-8dd7-acbf1a9f56a0
+2020-12-22 10:51:28.158 INFO  Press 'P' to place an order, or 'Q' to quit.
+2020-12-22 10:51:30.599 INFO  Sending PlaceOrder command, OrderId = c9ad2b6c-b498-4710-93b7-864dc5293a2b
+2020-12-22 10:51:30.605 INFO  Press 'P' to place an order, or 'Q' to quit.

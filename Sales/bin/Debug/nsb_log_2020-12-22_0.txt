@@ -1,0 +1,6 @@
+﻿2020-12-22 10:50:56.808 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\Sales\bin\Debug\' with level Info
+2020-12-22 10:50:56.955 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-22 10:51:16.520 INFO  Received PlaceOrder, OrderId = f1e2124d-26ca-4767-9fd1-d7a47ce5db63
+2020-12-22 10:51:25.216 INFO  Received PlaceOrder, OrderId = 4788d8b3-9706-4e43-9c7a-8aba35f206dc
+2020-12-22 10:51:28.175 INFO  Received PlaceOrder, OrderId = 9ccf4116-7b0e-49f0-8dd7-acbf1a9f56a0
+2020-12-22 10:51:30.612 INFO  Received PlaceOrder, OrderId = c9ad2b6c-b498-4710-93b7-864dc5293a2b

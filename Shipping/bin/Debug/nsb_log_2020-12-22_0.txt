@@ -1,0 +1,14 @@
+﻿2020-12-22 10:50:56.232 INFO  Logging to 'C:\Users\Nathalie Rojas\source\repos\RetailDemo\Shipping\bin\Debug\' with level Info
+2020-12-22 10:50:56.483 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-18'.
+2020-12-22 10:51:16.704 INFO  Received OrderPlaced, OrderId = f1e2124d-26ca-4767-9fd1-d7a47ce5db63
+2020-12-22 10:51:16.784 INFO  Received OrderBilled, OrderId = f1e2124d-26ca-4767-9fd1-d7a47ce5db63
+2020-12-22 10:51:16.860 INFO  Order [f1e2124d-26ca-4767-9fd1-d7a47ce5db63] - Successfully shipped.
+2020-12-22 10:51:25.230 INFO  Received OrderPlaced, OrderId = 4788d8b3-9706-4e43-9c7a-8aba35f206dc
+2020-12-22 10:51:25.248 INFO  Received OrderBilled, OrderId = 4788d8b3-9706-4e43-9c7a-8aba35f206dc
+2020-12-22 10:51:25.260 INFO  Order [4788d8b3-9706-4e43-9c7a-8aba35f206dc] - Successfully shipped.
+2020-12-22 10:51:28.190 INFO  Received OrderPlaced, OrderId = 9ccf4116-7b0e-49f0-8dd7-acbf1a9f56a0
+2020-12-22 10:51:28.206 INFO  Received OrderBilled, OrderId = 9ccf4116-7b0e-49f0-8dd7-acbf1a9f56a0
+2020-12-22 10:51:28.221 INFO  Order [9ccf4116-7b0e-49f0-8dd7-acbf1a9f56a0] - Successfully shipped.
+2020-12-22 10:51:30.628 INFO  Received OrderPlaced, OrderId = c9ad2b6c-b498-4710-93b7-864dc5293a2b
+2020-12-22 10:51:30.644 INFO  Received OrderBilled, OrderId = c9ad2b6c-b498-4710-93b7-864dc5293a2b
+2020-12-22 10:51:30.658 INFO  Order [c9ad2b6c-b498-4710-93b7-864dc5293a2b] - Successfully shipped.
